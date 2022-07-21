@@ -16,7 +16,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\..\..\..\Github\#My Project\#Private\TFive Library\TFive.Library\TFive.Library.csproj" />
+	  <ProjectReference Include="..\..\..\..\Github\#My Project\#Private\TFive Library\TFive.Library\TFive.Library.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>
