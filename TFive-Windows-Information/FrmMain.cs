@@ -189,20 +189,6 @@ public partial class FrmMain : Form
     {
         UpdateSetting(3);
     }
-    private void alwaysTopToolStripMenuItem_Click(object sender, EventArgs e)
-    {
-
-    }
-
-    private void magnifyToolStripMenuItem_Click(object sender, EventArgs e)
-    {
-
-    }
-
-    private void showColorToolStripMenuItem_Click(object sender, EventArgs e)
-    {
-
-    }
 
     #endregion Menu
 
