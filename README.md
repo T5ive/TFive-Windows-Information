@@ -2,7 +2,7 @@
 ![TFive - Windows Infomation](https://i.imgur.com/DiScod7.png)
 
 # Description
-TFive Windows-Infomation is an open-source (GPLv3) Auto Clicker written in C#. 
+TFive Windows-Infomation is an open-source (GPLv3) written in C#. 
 
 # FREE but NO SUPPORT
 There's no support. Don't email me if you can't use it.
